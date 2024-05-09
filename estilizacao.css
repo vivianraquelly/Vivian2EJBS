@@ -60,5 +60,15 @@ width: 200px;
 
 .icone{
 width: 30px;
+padding: 4px 8px;
 
+}
+
+.estudante-geral{
+text-align: center;
+
+}
+.estudantes-todos{
+display: grid;
+grid-template-columns: 20% 20% 20% 20% 20%;
 }
